@@ -1,0 +1,21 @@
+img {
+    width: 50%;
+}
+
+table{
+    border: 1px solid orange;
+}
+
+td{
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color:orange;
+    
+}
+
+a:hover {
+    color: orangered;
+}
